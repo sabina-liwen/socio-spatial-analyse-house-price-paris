@@ -1,9 +1,3 @@
-懂了，你是要一整块可以直接复制粘贴到 README.md 的版本（而不是分段解释的）。
-下面这个是干净、完整、可直接用的 Markdown👇
-
-⸻
-
-
 # Socio-Spatial Analysis of Housing Prices in Paris
 
 ## Overview
