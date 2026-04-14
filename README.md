@@ -8,6 +8,7 @@ The study focuses on predicting the price per square meter (€/m²) for apartme
 
 ## Data
 Dataset is provided in compressed format due to size constraints.
+
 	•	Source: French DVF dataset (open government data)
 	•	Scope: Real estate transactions in Paris
 
